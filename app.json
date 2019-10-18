@@ -1,0 +1,16 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "hw_selenium",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
